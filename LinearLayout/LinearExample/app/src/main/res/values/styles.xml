@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="butonTintStyle">
+
+        <!--  <item name="android:background">@drawable/button_background_shape</item> -->
+        <item name="android:textAllCaps">false</item>
+        <item name="android:layout_marginTop">28dp</item>
+        <item name="android:backgroundTint">@color/akbank_bottom_color</item>
+    </style>
+</resources>
